@@ -1,0 +1,38 @@
+Coursera - Machine Learning by Andrew Ng
+(it is a bit outdated, but useful for the basics)
+Coursera - Deep Learning by deeplearning.ai
+(now this is a good jump towards ML\DL)
+Udacity - ML courses(you can search for it, 
+I forgot the actual name)
+for the better understandings on mathematics as 
+it is much needed in DL:
+Coursera - Mathematics behind Machine Learning by 
+Imperial College London 
+
+along with this courses follow some you tube videos 
+or you can also follow some blog where they used CNN, 
+RCNN, RNN via Tensorflow or Pytorch, this will lead you 
+towards the real life project concepts.
+
+Along with the above, solve ML related problems 
+in Kaggle\Hackerrank. some ML related problems are Titanic dataset and so on. Follow the tutorial posts of Kaggle.
+
+Then ask a professor\lecturer like NBM sir,, MLE sir 
+and tell them what do you know already after completing 
+those courses and projects. 
+They will provide you a project, then do it carefully 
+and sincerely.
+
+just a bit of advice - for CNN, sometimes you will 
+need to code to process image as not all the solutions 
+available in github.
+
+The point is that most of don't follow the above way. 
+but in my opinion the above way is really helpful 
+but whatever you do make a concrete plan, 
+ask your expert friend or senior to give you some 
+advice on how to improve this problem. 
+Don't ask them to change your plan cause you might not 
+cope up with their plans. So make your plan in your way 
+but it should cover almost all the topics stated above. 
+Hopefully, you will get a solution.
